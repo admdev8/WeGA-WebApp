@@ -4,7 +4,7 @@
 			{
 				"name": "openjdk",
 				"tag": "8-jdk",
-				"digest": "1c6d757139bbdde14f53e042590f3948a42d803d8523ac1825fcc428fa4a047d"
+				"digest": "c1dcc499d35d74a93c6cbfb1819a88bd588e06741d23f9a1962f636799d77822"
 			},
 			{
 				"name": "existdb/existdb",
