@@ -4,12 +4,12 @@
 			{
 				"name": "openjdk",
 				"tag": "8-jdk",
-				"digest": ""
+				"digest": "030524be0055ae0f838a823837bf79090f080b0c57f7f1aa65dcafadd9654056"
 			},
 			{
 				"name": "existdb/existdb",
 				"tag": "5.2.0",
-				"digest": ""
+				"digest": "1388ea983a6fb1189208fb34bccd11d22f75c18b580c8e761f6d1052d8190613"
 			}
 		]
 	}
